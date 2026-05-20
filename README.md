@@ -48,4 +48,4 @@ Windows
 ### Clonar repositorio
 
 ```bash
-git clone URL_DEL_REPOSITORIO
+git clone https://github.com/JuanCruzUV12/docker-lab.git
