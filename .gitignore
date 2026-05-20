@@ -1,0 +1,28 @@
+# Variables de entorno
+.env
+
+# Dependencias Node.js
+node_modules/
+
+# Logs
+*.log
+
+# Archivos temporales
+tmp/
+temp/
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VSCode
+.vscode/
+
+# Linux
+*.swp
+
+# Docker
+docker-data/
