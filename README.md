@@ -144,6 +144,51 @@ docker ps
 
 ---
 
+# Laboratorio 2 - Gestión y Optimización de Procesos en Linux
+
+## Herramientas incorporadas
+
+- stress
+- stress-ng
+- htop
+- cpulimit
+- ps
+- pstree
+
+## Objetivos
+
+- Monitorear procesos
+- Generar carga artificial
+- Analizar consumo de CPU y memoria
+- Gestionar prioridades
+- Aplicar limitaciones de recursos
+
+## Evidencias
+
+### htop en reposo
+
+<img width="1919" height="1079" alt="Captura de pantalla 2026-05-29 170351" src="https://github.com/user-attachments/assets/c0b1ccd6-af0e-4360-8e8f-8cf1d1dae7ba" />
+
+### Saturación de CPU
+
+<img width="786" height="70" alt="Captura de pantalla 2026-05-29 171016" src="https://github.com/user-attachments/assets/b080cfa0-815d-4353-a4b9-83a1c9ead204" />
+
+### Saturación de memoria
+
+<img width="895" height="74" alt="Captura de pantalla 2026-05-29 171224" src="https://github.com/user-attachments/assets/d91f2c69-3640-446f-b0c2-f6f6c47729d1" />
+
+### Competencia de procesos
+
+<img width="1919" height="1043" alt="Captura de pantalla 2026-05-29 171319" src="https://github.com/user-attachments/assets/b8ceeac5-686d-4f45-8b7a-53b6c03b4dfb" />
+
+### Prioridades con nice
+
+<img width="940" height="91" alt="Captura de pantalla 2026-05-29 171531" src="https://github.com/user-attachments/assets/1044d664-191d-405c-88f4-a102f8538bf6" />
+
+<img width="942" height="85" alt="Captura de pantalla 2026-05-29 171637" src="https://github.com/user-attachments/assets/ed550f56-1155-4836-b534-50b5d3098fe3" />
+
+---
+
 # Integrantes del Proyecto
 
 | Nombre                 | Codigo  |
