@@ -59,6 +59,12 @@ services:
     networks:
       - dockerlab
 
+  monitor:
+    build: ./monitor
+    container_name: monitor
+    stdin_open: true
+    tty: true
+
 networks:
   dockerlab:
 
